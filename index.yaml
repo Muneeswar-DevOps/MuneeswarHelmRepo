@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  java-web-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-12T05:54:51.174334194Z"
+    description: A Helm chart for Kubernetes
+    digest: 66226edb390b577ce58430c5d23d03fa6aa3e7bf041bba799836ede5876c85a9
+    name: java-web-app
+    type: application
+    urls:
+    - https://muneeswar-devops.github.io/MuneeswarHelmRepo/java-web-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-12T05:54:51.172874727Z"
